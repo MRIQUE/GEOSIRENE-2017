@@ -1,12 +1,17 @@
 # GEOSIRENE-2017
 <b>Téléchargement et insertion dans une table sql serveur de  la base SIRENE Geocodée VERSION 2017</b><br>
+
+<br>**************ATTENTION
+************** <BR>
+Le format de la base SIRENE change début 2019 - ces mises à jour ne seront plus exploitables 
+<br>
 <hr>
 Le gouvernement français développe une politique d'ouverture des données publiques (OPEN DATA) auquel est dédié le site http://data.gouv.fr
 <br><br>
 Un des jeux de données d'intérêt majeur est constitué par la base SIRENE des entreprises et de leurs établissements  https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/'
 <br>
 
-Ce jeu de données a été géocodée par Christian Quest à partir de la BAN (Base Adresse Nationale) et la BANO (Base Adresse Nationale Ouverte). <br>
+Ce jeu de données a été géocodée par <a href="https://github.com/cquest">Christian Quest</a> à partir de la BAN (Base Adresse Nationale) et la BANO (Base Adresse Nationale Ouverte). <br>
 
  Le csv téléchargé comporte plus de 10 millions d'entitéés, et 91 colonnes : les 84 de la BD SIRENE originale + 7 ajoutées avec le géocodage, dont la latitude et la longitude en EPSG 4326).<br>
 
