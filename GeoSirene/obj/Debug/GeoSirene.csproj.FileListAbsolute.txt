@@ -1,0 +1,26 @@
+D:\Personal\ETL\alacroix\GeoSirene\GeoSirene\GeoSirene\bin\Debug\GeoSirene.exe.config
+D:\Personal\ETL\alacroix\GeoSirene\GeoSirene\GeoSirene\bin\Debug\GeoSirene.exe
+D:\Personal\ETL\alacroix\GeoSirene\GeoSirene\GeoSirene\bin\Debug\GeoSirene.pdb
+D:\Personal\ETL\alacroix\GeoSirene\GeoSirene\GeoSirene\bin\Debug\SevenZipExtractor.dll
+D:\Personal\ETL\alacroix\GeoSirene\GeoSirene\GeoSirene\obj\Debug\GeoSirene.exe
+D:\Personal\ETL\alacroix\GeoSirene\GeoSirene\GeoSirene\obj\Debug\GeoSirene.pdb
+D:\Personal\ETL\alacroix\GeoSirene\GeoSirene\GeoSirene\bin\Debug\x64\7z.dll
+D:\Personal\ETL\alacroix\GeoSirene\GeoSirene\GeoSirene\bin\Debug\x86\7z.dll
+D:\Personal\ETL\alacroix\GeoSirene\GeoSirene\GeoSirene\obj\Debug\GeoSirene.csprojResolveAssemblyReference.cache
+D:\Personal\ETL\alacroix\GeoSirene\Delivered\12072018\GeoSirene\GeoSirene\bin\Debug\GeoSirene.exe.config
+D:\Personal\ETL\alacroix\GeoSirene\Delivered\12072018\GeoSirene\GeoSirene\obj\Debug\GeoSirene.exe
+D:\Personal\ETL\alacroix\GeoSirene\Delivered\12072018\GeoSirene\GeoSirene\obj\Debug\GeoSirene.pdb
+D:\Personal\ETL\alacroix\GeoSirene\Delivered\12072018\GeoSirene\GeoSirene\bin\Debug\x64\7z.dll
+D:\Personal\ETL\alacroix\GeoSirene\Delivered\12072018\GeoSirene\GeoSirene\bin\Debug\x86\7z.dll
+D:\Personal\ETL\alacroix\GeoSirene\Delivered\12072018\GeoSirene\GeoSirene\bin\Debug\GeoSirene.exe
+D:\Personal\ETL\alacroix\GeoSirene\Delivered\12072018\GeoSirene\GeoSirene\bin\Debug\GeoSirene.pdb
+D:\Personal\ETL\alacroix\GeoSirene\Delivered\12072018\GeoSirene\GeoSirene\bin\Debug\SevenZipExtractor.dll
+C:\Users\aymeric.lacroix\Source_alx\Workspaces\BI\OPEN DATA\SIRENE DOWNLOAD\GeoSirene\bin\Debug\x64\7z.dll
+C:\Users\aymeric.lacroix\Source_alx\Workspaces\BI\OPEN DATA\SIRENE DOWNLOAD\GeoSirene\bin\Debug\x86\7z.dll
+C:\Users\aymeric.lacroix\Source_alx\Workspaces\BI\OPEN DATA\SIRENE DOWNLOAD\GeoSirene\bin\Debug\GeoSirene.exe.config
+C:\Users\aymeric.lacroix\Source_alx\Workspaces\BI\OPEN DATA\SIRENE DOWNLOAD\GeoSirene\bin\Debug\GeoSirene.exe
+C:\Users\aymeric.lacroix\Source_alx\Workspaces\BI\OPEN DATA\SIRENE DOWNLOAD\GeoSirene\bin\Debug\GeoSirene.pdb
+C:\Users\aymeric.lacroix\Source_alx\Workspaces\BI\OPEN DATA\SIRENE DOWNLOAD\GeoSirene\bin\Debug\SevenZipExtractor.dll
+C:\Users\aymeric.lacroix\Source_alx\Workspaces\BI\OPEN DATA\SIRENE DOWNLOAD\GeoSirene\obj\Debug\GeoSirene.csproj.CoreCompileInputs.cache
+C:\Users\aymeric.lacroix\Source_alx\Workspaces\BI\OPEN DATA\SIRENE DOWNLOAD\GeoSirene\obj\Debug\GeoSirene.exe
+C:\Users\aymeric.lacroix\Source_alx\Workspaces\BI\OPEN DATA\SIRENE DOWNLOAD\GeoSirene\obj\Debug\GeoSirene.pdb
