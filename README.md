@@ -7,3 +7,5 @@ Ce développement permet d'intégrer ce référentiel fournis online en csv zipp
 create_table Geo_sirene.txt => Instruction sql pour créer la table réceptacle (sans les index)
 <br>
 Code source en c# 
+<hr>
+Merci à Christian pour sa contribution permanente intelligente et utile !
