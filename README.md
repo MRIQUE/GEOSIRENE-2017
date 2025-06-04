@@ -29,7 +29,7 @@ Ce développement c# permet d'intégrer ce référentiel  dans une table sql ser
 <hr>
 <b>Mise en oeuvre</b><br>
 (1) Créer dans votre base sql serveur la table avec la commande contenue dans le fichier create_table Geo_sirene.txt  <br>
-(2) Ajuster dans le fichier de congiguration les variables (nom de votre base de données, credential pour se connecter, répertoire temporaire...)<br>
+(2) Ajuster dans le fichier de configuration les variables (nom de votre base de données, credential pour se connecter, répertoire temporaire...)<br>
 (3) Lancer le programme après compilation en ligne de commande<br>
 (4) Créer si besoin des index dans votre table en fonction des traitements que vous souhaitez réaliser 
 <br>
