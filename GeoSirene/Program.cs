@@ -129,17 +129,20 @@ namespace GeoSirene
             {
                 foreach (Entry entry in archiveFile.Entries)
                 {
-                    if (File.Exists(Desnation + entry.FileName.ToString()))
+                    string destFile = Path.Combine(Desnation, entry.FileName.ToString());
+                    if (File.Exists(destFile))
                     {
-                        File.Delete(Desnation + entry.FileName.ToString());
+                        File.Delete(destFile);
                     }
 
-                    MemoryStream memoryStream = new MemoryStream();
-                    entry.Extract(memoryStream);
-
-                    using (FileStream file = new FileStream(Desnation + entry.FileName.ToString(), FileMode.Create, FileAccess.Write))
+                    using (MemoryStream memoryStream = new MemoryStream())
                     {
-                        memoryStream.WriteTo(file);
+                        entry.Extract(memoryStream);
+                        memoryStream.Position = 0;
+                        using (FileStream file = new FileStream(destFile, FileMode.Create, FileAccess.Write))
+                        {
+                            memoryStream.CopyTo(file);
+                        }
                     }
 
                 }
