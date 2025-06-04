@@ -136,6 +136,7 @@ namespace GeoSirene
 
                     MemoryStream memoryStream = new MemoryStream();
                     entry.Extract(memoryStream);
+                    memoryStream.Position = 0;
 
                     using (FileStream file = new FileStream(Desnation + entry.FileName.ToString(), FileMode.Create, FileAccess.Write))
                     {
